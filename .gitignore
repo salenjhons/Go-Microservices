@@ -3,3 +3,4 @@
 go.mod
 go.sum
 /project/db-data/mongo/*
+/Gitlab-Runner/*
