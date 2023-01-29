@@ -16,3 +16,15 @@ To shut the project:
 make down // shutdown backend
 
 make stop // shutdown frontend
+
+29.01.23 
+Added listener-service and rabbitmq using next command
+
+
+cd listnere-service & cd broker-service
+
+go go get github.com/rabbitmq/amqp091-go
+
+added rabbitmq image into docker-compose file
+"rabbitmq:3.9-alpine"
+
