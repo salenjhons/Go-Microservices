@@ -1,6 +1,3 @@
-/project/db-data/postgres/*
 /.git/*
-go.mod
-go.sum
-/project/db-data/mongo/*
+/project/db-data/*
 /Gitlab-Runner/*
