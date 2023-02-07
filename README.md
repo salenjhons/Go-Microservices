@@ -23,7 +23,7 @@ Added listener-service and rabbitmq using next command
 
 cd listnere-service & cd broker-service
 
-go go get github.com/rabbitmq/amqp091-go
+go get github.com/rabbitmq/amqp091-go
 
 added rabbitmq image into docker-compose file
 "rabbitmq:3.9-alpine"
